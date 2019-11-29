@@ -21,10 +21,10 @@ description: Computational Scientist
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Workshops: "workshops"
-  Deployment: "deployment"
-  Tutorials: "tutorials"
+  About Me: "/about/aboutme"
+  Workshops: "/workshops/index"
+  Deployment: "/deployment/index"
+  Tutorials: "/tutorials/index"
   Resources:	
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
