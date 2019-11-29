@@ -3,11 +3,34 @@ layout: page
 title: About me
 subtitle: Jacob Fosso Tande, Computational Scientist
 ---
- I am computational Scientist with roots in chemistry.
- I hail from the West region of the Republic of Cameroon.
- I speak three languages, Ngemba, French and English, and
- I hold a bachelor of science in chemistry from the University
- of Buea in the South West Region of Cameroon. I am very happy
- that East Tennessee State University, with the precious help of
- Prof. Huang, gave me the opportunity to study in the US.
+I am a computational scientist specialized in computing for curricular
+and research activities. In my day to day interactions, I act as an interface
+between the Information Technology department and the academic departments
+at my institution. As a research computing specialist, I advise researchers
+on computing needs, design, set up and maintained computing and information
+systems for scientific discovery. With the ever changing technological
+landscape, I keep abreast of the latest developments and organize workshops
+to update researchers on these new developments.
+
+
+My *metamorphic* path to become a computational scientist passed
+through the mastery of fundamental principles of the physical sciences. I
+studied Mathematics, Physics, Biology, Chemistry and Computer programming.
+
+
+With the understsanding of basic concepts, theories and principles at hand, I
+then embarked on a journey of scientific discovery, where, I used commodity
+and high performance computers along with scientific applications to
+investigate atomic and electronic processes of molecules and materials.
+
+
+In the course of my scientific inquisitions, I worked collaboratively, with
+experimentalists and theoreticians across many areas of the physical sciences.
+During this process, I developped a passion for setting up computing
+insfrastructures, interpreting computational output to provide experimentalists
+with insight into experimental observations, trouble-shoot computers attached to
+scientific instruments, became accustomed to interpreting scientific jargon
+accross disciplines and most important, I developped a "can do" mindset that
+keeps me doing what I love to do now
+
  
