@@ -22,7 +22,7 @@ description: Computational Scientist
 # List of links in the navigation bar
 navbar-links:
   About Me: "/about/aboutme"
-    - My CV: "FossoTandeCV.pdf"
+    - My CV: "JFossoTande.github.io/FossoTandeCV.pdf"
   Workshops: "/workshops/index"
   Deployment: "/deployment/index"
   Tutorials: "/tutorials/index"
