@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Curriculum Vitae
+title: Curriculum Vitae
 subtitle: Jacob Fosso Tande, Ph.D
 ---
 
