@@ -17,7 +17,7 @@ subtitle: Jacob Fosso Tande, Ph.D
     * Advisor: Dr. Scott J. Kirkby.   
     * Concentration: Physical Chemistry.    
 
-  * **Bachelor of Science** in Chemistry  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp July  2002   
+  * **Bachelor of Science** in Chemistry  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; July  2002   
     * University of Buea (UB), Buea, Southwest region, Republic of Cameroon.    
     * Professional Minor in Chemical Process Technology.   
 
