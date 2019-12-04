@@ -21,7 +21,8 @@ description: Computational Scientist
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "/about/aboutme"
+  About Me:
+    - about me: "/about/aboutme"
     - My CV: "/about/mycv"
   Workshops: "/workshops/index"
   Deployment: "/deployment/index"
