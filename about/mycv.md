@@ -6,11 +6,11 @@ subtitle: Jacob Fosso Tande, Ph.D
 
 
 ## **Education**
-  . Doctorate of Philosophy in Physical Chemistry              December  2012   
-    . The University of Tennessee/Oak Ridge National Laboratory, Tennessee, USA
-    . Advisor: Director of IACS, Stony Brook University, Robert J. Harrison.  
-    . Concentration: Theoretical and Computational Chemistry.   
-    . Minor: Interdisciplinary Graduate Minor in Computational Science.   
+  * Doctorate of Philosophy in Physical Chemistry              December  2012   
+    ** The University of Tennessee/Oak Ridge National Laboratory, Tennessee, USA  
+    ** Advisor: Director of IACS, Stony Brook University, Robert J. Harrison.  
+    ** Concentration: Theoretical and Computational Chemistry.   
+    ** Minor: Interdisciplinary Graduate Minor in Computational Science.   
 
   . Masters of Science in Chemistry                               August  2007
     . East Tennessee State University, Johnson City, Tennessee USA   
