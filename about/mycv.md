@@ -4,7 +4,6 @@ title: Curriculum Vitae
 subtitle: Jacob Fosso Tande, Ph.D
 ---
 
-
 ### **Education**
 * **Doctorate of Philosophy** in Physical Chemistry, &nbsp; &nbsp; December  2012 
    * The University of Tennessee/Oak Ridge National Laboratory, Tennessee, USA 
@@ -60,15 +59,15 @@ subtitle: Jacob Fosso Tande, Ph.D
    * College Algebra. &nbsp; &nbsp; Fall 2016   
  * The University of Tennessee, Knoxville Tennessee USA.     
    * Head Teaching Assistant General Chemistry. &nbsp; &nbsp; Spring 2009   
-   * Teaching Assistant for CHEM240 (Chemical Programming).&nbsp; &nbsp; Falls 2008 and 2009   
+   * Teaching Assistant for Chemical Programming. &nbsp; &nbsp; Falls 2008 and 2009   
    * Web Master for General Chemistry. &nbsp; &nbsp; Fall 2007   
    * Laboratory Instructor for General Chemistry. &nbsp; &nbsp; Fall 2007
  * East Tennessee State University, Johnson City TN USA.  
-   * Upward Bound Program, physics and chemistry instructor. &nbsp; &nbsp; May -- August 2007   
+   * Upward Bound Program, physics and chemistry instructor. &nbsp; &nbsp; Summer 2007   
    * Laboratory Instructor for General and Organic Chemistry. &nbsp; &nbsp; 2005 - 2007   
  * Martin-Luther King Bilingual High School, Republic of Cameroon.
-   * Physical Sciences and Mathematics Instructor. &nbsp; &nbsp; August 2002 to September 2005      
-   * Discipline Master. &nbsp; &nbsp;  August 2002 to September 2005  
+   * Physical Sciences and Mathematics Instructor. &nbsp; &nbsp; 2002 -- 2005      
+   * Discipline Master. &nbsp; &nbsp;  2002 -- 2005  
 
 ### **Student Researchers Mentored**   
  * Brandon Troisi. &nbsp; &nbsp;  Summer 2018   
@@ -76,8 +75,9 @@ subtitle: Jacob Fosso Tande, Ph.D
  * Katie Chalmers, REU NSF Fellowship recipients &nbsp; &nbsp; Summer 2017 
  * Cody Black,
    * Independent study student &nbsp; &nbsp; Fall and Spring 2017
-   * 2017 American Foundation for Pharmaceutical Education Gateway to Research Award.
-   * NSF REU Fellow &nbsp; &nbsp; Fall 2016
+   * 2017 American Foundation for Pharmaceutical
+     Education Gateway to Research Award.    
+   * NSF REU Fellow &nbsp; &nbsp; Fall 2016   
  * Rachel McDevitt. REU NSF Fellow. &nbsp; &nbsp;  Summer 2016 
 
 ### **Peer-Reviewed Publications**
