@@ -5,19 +5,19 @@ subtitle: Jacob Fosso Tande, Ph.D
 ---
 
 
- ### **Education**
-| :--- * **Doctorate of Philosophy** in Physical Chemistry                            |  December  2012 ---: |   
+### **Education**
+* **Doctorate of Philosophy** in Physical Chemistry, &nbsp; &nbsp; December  2012 
    * The University of Tennessee/Oak Ridge National Laboratory, Tennessee, USA 
    * Advisor: Director of IACS, Stony Brook University, Robert J. Harrison.    
    * Concentration: Theoretical and Computational Chemistry.                   
    * Minor: Interdisciplinary Graduate Minor in Computational Science.         
 
-| :--- * **Masters of Science** in Chemistry                                          |    August  2007  ---: |  
+* **Masters of Science** in Chemistry, &nbsp; &nbsp;  August  2007    
    * East Tennessee State University, Johnson City, Tennessee USA              
    * Advisor: Dr. Scott J. Kirkby.                                             
    * Concentration: Physical Chemistry.                                        
 
- * **Bachelor of Science** in Chemistry                                               July  2002  
+ * **Bachelor of Science** in Chemistry, &nbsp; &nbsp;  July  2002  
    * University of Buea (UB), Buea, Southwest region, Republic of Cameroon.                       
    * Professional Minor in Chemical Process Technology.                                           
 
@@ -27,58 +27,58 @@ subtitle: Jacob Fosso Tande, Ph.D
   * Collaborative and reproducibility software and applications environment     
 
 ### **HPC Experience** 
-   * Colby College’s Research and Teaching Cluster  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2017 - Present   
-   * University of New England Research group HPC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; 2016 – 2017   
-   * Florida State Universty HPC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2014 - 2016     
-   * NERSC’s Hopper on Cray XE 6  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  2013 - 2014    
-   * Kraken XT5 Cray system and University of Tennessee’s HPC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2009 - 2014   
-   * Jaguar XT, Lens visualization cluster and TITAN at ORNL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2007 - 2012   
+   * Colby College’s Research and Teaching Cluster  &nbsp; &nbsp;  2017 - Present   
+   * University of New England Research group HPC &nbsp; &nbsp;  2016 – 2017   
+   * Florida State Universty HPC &nbsp; &nbsp; 2014 - 2016     
+   * NERSC’s Hopper on Cray XE 6  &nbsp; &nbsp;  2013 - 2014    
+   * Kraken XT5 Cray system and University of Tennessee’s HPC &nbsp; &nbsp; 2009 - 2014   
+   * Jaguar XT, Lens visualization cluster and TITAN at ORNL &nbsp; &nbsp; 2007 - 2012   
 
 ### **Professional  Experience**   
- * Scientific Computing Coordinator &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; July 2017 – Present
+ * Scientific Computing Coordinator &nbsp; &nbsp; July 2017 – Present
    * Colby College, Waterville Maine USA  
- * Research Associate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; May 2016 - July 2017    
+ * Research Associate &nbsp; &nbsp; May 2016 - July 2017    
    * University of New England, Portland, ME, USA   
- * Post-Doctoral Researcher &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; April 2014 - May 2016   
+ * Post-Doctoral Researcher &nbsp; &nbsp; April 2014 - May 2016   
    * The Florida State University, Tallahassee, FL, USA    
- * Post-Doctoral Research Associate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; January 2013 - March 2014   
+ * Post-Doctoral Research Associate &nbsp; &nbsp; &nbsp;  January 2013 - March 2014   
    * The University of Tennessee, Knoxville, TN, USA
- * Graduate Research Assistant &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; August 2007 - December 2012   
+ * Graduate Research Assistant &nbsp; &nbsp;  August 2007 - December 2012   
    * The University of Tennessee/Oak Ridge National Laboratory in Knoxville, TN.  
- * Graduate Research Assistant &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; September 2005 - August 2007   
+ * Graduate Research Assistant &nbsp; &nbsp; &nbsp; September 2005 - August 2007   
    * East Tennessee State University  in Johnson City, TN
 
 ### **Teaching Experience**    
  * Adjunct Faculty, Central Maine Community College, Auburn Maine USA.     
-   * Intermediate Algebra. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Spring 2018 – Present   
+   * Intermediate Algebra. &nbsp; &nbsp;  Spring 2018 – Present   
  * Assistant Instructor,  University of New England, Portland Maine USA .    
-   * Introduction to Unix Computing and Molecular Visualization. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Winter 2017   
+   * Introduction to Unix Computing and Molecular Visualization. &nbsp; &nbsp;  Winter 2017   
  * Adjunct Faculty, Central Maine Community College, Auburn Maine USA.   
-   * Intermediate Algebra. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Spring 2017    
-   * Business Mathematics. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Spring 2017    
+   * Intermediate Algebra. &nbsp; &nbsp;  Spring 2017    
+   * Business Mathematics. &nbsp; &nbsp;  Spring 2017    
  * Adjunct Faculty, Southern Maine Community College, South Portland Maine USA.
-   * College Algebra. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fall 2016   
+   * College Algebra. &nbsp; &nbsp; Fall 2016   
  * The University of Tennessee, Knoxville Tennessee USA.     
-   * Head Teaching Assistant General Chemistry. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Spring 2009   
-   * Teaching Assistant for CHEM240 (Chemical Programming).&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Falls 2008 and 2009   
-   * Web Master for General Chemistry. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fall 2007   
-   * Laboratory Instructor for General Chemistry. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fall 2007
+   * Head Teaching Assistant General Chemistry. &nbsp; &nbsp; Spring 2009   
+   * Teaching Assistant for CHEM240 (Chemical Programming).&nbsp; &nbsp; Falls 2008 and 2009   
+   * Web Master for General Chemistry. &nbsp; &nbsp; Fall 2007   
+   * Laboratory Instructor for General Chemistry. &nbsp; &nbsp; Fall 2007
  * East Tennessee State University, Johnson City TN USA.  
-   * Upward Bound Program, physics and chemistry instructor. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; May -- August 2007   
-   * Laboratory Instructor for General and Organic Chemistry. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2005 - 2007   
+   * Upward Bound Program, physics and chemistry instructor. &nbsp; &nbsp; May -- August 2007   
+   * Laboratory Instructor for General and Organic Chemistry. &nbsp; &nbsp; 2005 - 2007   
  * Martin-Luther King Bilingual High School, Republic of Cameroon.
-   * Physical Sciences and Mathematics Instructor. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; August 2002 to September 2005      
-   * Discipline Master. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; August 2002 to September 2005  
+   * Physical Sciences and Mathematics Instructor. &nbsp; &nbsp; August 2002 to September 2005      
+   * Discipline Master. &nbsp; &nbsp;  August 2002 to September 2005  
 
 ### **Student Researchers Mentored**   
- * Brandon Troisi. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Summer 2018   
- * Jessica White, REU NSF Fellowship recipients &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Summer 2017  
- * Katie Chalmers, REU NSF Fellowship recipients &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Summer 2017 
+ * Brandon Troisi. &nbsp; &nbsp;  Summer 2018   
+ * Jessica White, REU NSF Fellowship recipients &nbsp; &nbsp; Summer 2017  
+ * Katie Chalmers, REU NSF Fellowship recipients &nbsp; &nbsp; Summer 2017 
  * Cody Black,
-   * NSF REU Fellow &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fall 2016
-   * Independent study student &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fall and Spring 2017
+   * Independent study student &nbsp; &nbsp; Fall and Spring 2017
    * 2017 American Foundation for Pharmaceutical Education Gateway to Research Award.
- * Rachel McDevitt. REU NSF Fellow. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Summer 2016 
+   * NSF REU Fellow &nbsp; &nbsp; Fall 2016
+ * Rachel McDevitt. REU NSF Fellow. &nbsp; &nbsp;  Summer 2016 
 
 ### **Peer-Reviewed Publications**
 
