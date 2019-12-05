@@ -24,6 +24,7 @@ navbar-links:
   About Me:
     - about me: "/about/aboutme"
     - My CV: "/about/mycv"
+    - Download CV: "/about/FossoTandeCV.pdf"
   Workshops: "/workshops/index"
   Deployment: "/deployment/index"
   Tutorials: "/tutorials/index"
