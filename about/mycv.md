@@ -5,23 +5,23 @@ subtitle: Jacob Fosso Tande, Ph.D
 ---
 
 
-| ### **Education**                                                              |                  |
+ ### **Education**
 | :---                                                                           |             ---: |
 | * **Doctorate of Philosophy** in Physical Chemistry                            |  December  2012  |   
 |   * The University of Tennessee/Oak Ridge National Laboratory, Tennessee, USA  |                  |
 |   * Advisor: Director of IACS, Stony Brook University, Robert J. Harrison.     |                  |
 |   * Concentration: Theoretical and Computational Chemistry.                    |                  |
 |   * Minor: Interdisciplinary Graduate Minor in Computational Science.          |                  |
-|                                                                                |                  |
+| :---                                                                           |             ---: |
 | * **Masters of Science** in Chemistry                                          |    August  2007  |  
 |   * East Tennessee State University, Johnson City, Tennessee USA               |                  |
 |   * Advisor: Dr. Scott J. Kirkby.                                              |                  |
 |   * Concentration: Physical Chemistry.                                         |                  |
-|                                                                                |                  |
+| :---                                                                           |             ---: |
 | * **Bachelor of Science** in Chemistry                                         |      July  2002  |  
 |   * University of Buea (UB), Buea, Southwest region, Republic of Cameroon.     |                  |
 |   * Professional Minor in Chemical Process Technology.                         |                  |
-|                                                                                |                  |
+
 ### **Research Interests**
   * Visualization on HPC systems: I am interested in understanding how visualization applications, network performance and computer resources can be put together to give the end-user an efficient, consistent and reliable visualization experience.   
   * Quality control for a better end-user experience   
