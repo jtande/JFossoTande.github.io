@@ -2,8 +2,8 @@
 layout: post
 title: Trusted CI Webinar Series
 subtitle: [Cybersecurity webminars for the NSF science community](https://trustedci.org/webinars)
-bigimg: /img/TrustedCI_logo_blue_web.png
-tags: webminar
+bigimg: /home/jacob/MyGitSite/JFossoTande.github.io/img/TrustedCI_logo_blue_web.png
+tags: [ webminar ]
 ---
 
 The purpose of the webinar series is to provide readily available cybersecurity services tailored to the
