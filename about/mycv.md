@@ -39,7 +39,7 @@ subtitle: Jacob Fosso Tande, Ph.D
    * Jaguar XT, Lens visualization cluster and TITAN at ORNL &nbsp; &nbsp; 2007 - 2012   
 
 ### **Professional  Experience**
-  * Research Computing Architech & Solutions Developer &nbsp; &nbsp; February 2023 – Present
+ * Research Computing Architech & Solutions Developer &nbsp; &nbsp; February 2023 – Present
    * North Carolina State University, Raleigh NC USA     
  * Research Computing Administrator &nbsp; &nbsp; February 2020 – January 2023
    * University of North Carolina, Greensboro NC USA     
