@@ -7,17 +7,13 @@ I am a computational scientist specialized in computing for curricular
 and research activities. In my day to day interactions, I act as an interface
 between the Information Technology department and the academic departments
 at my institution. As a research computing specialist, I advise researchers
-on computing needs, design, set up and maintained computing and information
+on computing needs, design, set up and maintain computing and information
 systems for scientific discovery. With the ever changing technological
 landscape, I keep abreast of the latest developments and organize workshops
 to update researchers on these new developments.
 
 
-My *metamorphic* path to become a computational scientist passed
-through the mastery of fundamental principles of the physical sciences. I
-studied Mathematics, Physics, Biology, Chemistry and Computer programming.
-
-
+I studied Mathematics, Physics, Biology, Chemistry and Computer programming.
 With the understsanding of basic concepts, theories and principles at hand, I
 then embarked on a journey of scientific discovery, where, I used commodity
 and high performance computers along with scientific applications to

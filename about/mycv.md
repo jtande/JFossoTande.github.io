@@ -20,10 +20,15 @@ subtitle: Jacob Fosso Tande, Ph.D
    * University of Buea (UB), Buea, Southwest region, Republic of Cameroon.                       
    * Professional Minor in Chemical Process Technology.                                           
 
-### **Research Interests**
-  * Visualization on HPC systems: I am interested in understanding how visualization applications, network performance and computer resources can be put together to give the end-user an efficient, consistent and reliable visualization experience.   
-  * Quality control for a better end-user experience   
-  * Collaborative and reproducibility software and applications environment     
+### **Interests**
+  * Research Computing Cyberinfrastructure(CI)
+    * System Architecture Design
+    * Cloud and on-prem CI evaluation for suitability, sustainability and adaptability
+    * Cloud and on-prem CI cost analysis and comparison
+    * Institutional evaluation of CI(services and systems) to minimize duplication of efforts
+  * Collaborative and reproducibility software and applications environment
+    * Datascience hub (e.g Jupyterhub)
+    * Docker and Singularity containers
 
 ### **HPC Experience** 
    * Colby College’s Research and Teaching Cluster  &nbsp; &nbsp;  2017 - Present   
@@ -33,8 +38,12 @@ subtitle: Jacob Fosso Tande, Ph.D
    * Kraken XT5 Cray system and University of Tennessee’s HPC &nbsp; &nbsp; 2009 - 2014   
    * Jaguar XT, Lens visualization cluster and TITAN at ORNL &nbsp; &nbsp; 2007 - 2012   
 
-### **Professional  Experience**   
- * Scientific Computing Coordinator &nbsp; &nbsp; July 2017 – Present
+### **Professional  Experience**
+  * Research Computing Architech & Solutions Developer &nbsp; &nbsp; February 2023 – Present
+   * North Carolina State University, Raleigh NC USA     
+ * Research Computing Administrator &nbsp; &nbsp; February 2020 – January 2023
+   * University of North Carolina, Greensboro NC USA     
+ * Scientific Computing Coordinator &nbsp; &nbsp; July 2017 – January 2020
    * Colby College, Waterville Maine USA  
  * Research Associate &nbsp; &nbsp; May 2016 - July 2017    
    * University of New England, Portland, ME, USA   
@@ -69,7 +78,10 @@ subtitle: Jacob Fosso Tande, Ph.D
    * Physical Sciences and Mathematics Instructor. &nbsp; &nbsp; 2002 -- 2005      
    * Discipline Master. &nbsp; &nbsp;  2002 -- 2005  
 
-### **Student Researchers Mentored**   
+### **Student Researchers Mentored**
+ * Sai Manideep Chittiprolu &nbsp; &nbsp;  Fall 2022 - Spring 2023
+ * Aishwarya Gouru  &nbsp; &nbsp;  Fall 2021 - Spring 2022
+ * Koundinya Challa &nbsp; &nbsp;  Fall 2020 - Spring 2021
  * Brandon Troisi. &nbsp; &nbsp;  Summer 2018   
  * Jessica White, REU NSF Fellowship recipients &nbsp; &nbsp; Summer 2017  
  * Katie Chalmers, REU NSF Fellowship recipients &nbsp; &nbsp; Summer 2017 
@@ -80,8 +92,12 @@ subtitle: Jacob Fosso Tande, Ph.D
    * NSF REU Fellow &nbsp; &nbsp; Fall 2016   
  * Rachel McDevitt. REU NSF Fellow. &nbsp; &nbsp;  Summer 2016 
 
-### **Peer-Reviewed Publications**
+### **Reports**
+ *  **Jacob Fosso Tande** as University CI Professionals Focus Group Participant, [The Missing Millions: Democratizing Computation and Data to Bridge Digital Divides and Increase Access to Science for Underrepresented Communities](https://www.rti.org/publication/missing-millions/fulltext.pdf) October 3, 2021, NSF OAC 2127459
 
+
+### **Peer-Reviewed Publications**
+ * ** Jacob Fosso Tande **  Large Scale Networking (LSN) Workshop on Huge Data: A Computing, Networking and Distributed Systems Perspective (April 2020) ["Mitigating the Dilemma of Huge Data Flow at the University of North Carolina, Greensboro (White Paper)"](http://tigerprints.clemson.edu/hugedata/data_movement/presentations/7)
  * **Jacob Fosso-Tande**, Cody Black,  Stephen G. Aller, Lanyuan Lu, and, Ronald D. Hills Jr. AIMS Molecular Science, 4 (3):352-369  (2017) "Simulation of lipid-protein interactions with the CgProt force field."       
  * **J. Fosso-Tande**, T.-S. Nguyen, G. Gidofalvi, and A. E. DePrince III, J. Chem. Theory     Comput., (2016). ["Large-scale v2RDM-driven CASSCF method](http://dx.doi.org/10.1021/acs.jctc.6b00190).   
  * Robert J. Harrison, Gregory Beylkin, Florian A. Bischoff, Justus A. Calvin, George I. Fann , **Jacob Fosso-Tande**, Diego Galindo , Jeff R. Hammond , Rebecca Hartman-Baker , Judith	C. Hill , Jun Jia , Jakob S. Kottmann, M-J. Yvonne OU, Laura E. Ratcliff, Mathew G. Reuter, Adam C. Richie-Halford , Nichols A. Romero, Hideo Sekino, William A. Shelton, Bryan E. Sundal, W. Scott Thornton , Edward F. Valeev, Alvaro Vazquez-Mayagoitia, Nicholas Vence, and Yukina Yokoi. "MADNESS: A Multiresolution, ADaptive Numerical Environment for Scientific Simulation" , [SIAM Journal on Scientific Computing, (2015)](http://epubs.siam.org/doi/10.1137/15M1026171)
@@ -93,8 +109,10 @@ subtitle: Jacob Fosso Tande, Ph.D
 
 
 ### **Invited Talks and Poster Presentation**   
-
- * Ronald D. Hills Jr., **Jacob Fosso Tande**, Cody Black, Model Assessment and Simulation of Lipid-Protein Interactions, Biophysical Journal, Volume 112, Issue 3, Supplement 1, p528a, 3 February 2017        
+* **Jacob Fosso Tande** "The Cyberinfrastructure Landscape: Systems, Service Providers, Technologies" Virtual Residency Workshop, June 2022
+* Panel Discussion, Internet2:Democratizing Cloud Computing on Campus, Panelists:Chris Lalande,**Jacob Fosso Tande**, Paul Williams, Amanda Tan (moderator), December 2020
+* **Jacob Fosso Tande**,Explaining Complex Technical Topics to Researchers, Virtual Residency Workshop, June 2020
+* Ronald D. Hills Jr., **Jacob Fosso Tande**, Cody Black, Model Assessment and Simulation of Lipid-Protein Interactions, Biophysical Journal, Volume 112, Issue 3, Supplement 1, p528a, 3 February 2017        
  * Cody Black , **Jacob Fosso Tande**, Rachel McDavitt, and Ronald D. Hills Jr., LPS and Substrate Binding by Multidrug Efflux Proteins ,College of Pharmacy, University of New England, Portland, ME, Annual student research symposium., December 2016     
  * **Jacob Fosso-Tande** and A. Eugene Deprince III, “Large active-space-based calculations with variational 2-electron reduced density method”, SETCA 2015, University of Central Florida, Orlando Fl, May 14-16,  poster number 10, poster presentation     
  * **Jacob Fosso-Tande**  “overcoming the challenge of accuracy in the analysis of the electronic structure of molecules”, Department of Chemistry and Forensic Science, Savannah State University, Savannah Ga, May 1st 2015. oral presentation    
