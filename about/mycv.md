@@ -97,7 +97,8 @@ subtitle: Jacob Fosso Tande, Ph.D
 
 
 ### **Peer-Reviewed Publications**
- * ** Jacob Fosso Tande **  Large Scale Networking (LSN) Workshop on Huge Data: A Computing, Networking and Distributed Systems Perspective (April 2020) ["Mitigating the Dilemma of Huge Data Flow at the University of North Carolina, Greensboro (White Paper)"](http://tigerprints.clemson.edu/hugedata/data_movement/presentations/7)
+
+ * **Jacob Fosso Tande**  Large Scale Networking (LSN) Workshop on Huge Data: A Computing, Networking and Distributed Systems Perspective (April 2020) ["Mitigating the Dilemma of Huge Data Flow at the University of North Carolina, Greensboro (White Paper)"](http://tigerprints.clemson.edu/hugedata/data_movement/presentations/7)
  * **Jacob Fosso-Tande**, Cody Black,  Stephen G. Aller, Lanyuan Lu, and, Ronald D. Hills Jr. AIMS Molecular Science, 4 (3):352-369  (2017) "Simulation of lipid-protein interactions with the CgProt force field."       
  * **J. Fosso-Tande**, T.-S. Nguyen, G. Gidofalvi, and A. E. DePrince III, J. Chem. Theory     Comput., (2016). ["Large-scale v2RDM-driven CASSCF method](http://dx.doi.org/10.1021/acs.jctc.6b00190).   
  * Robert J. Harrison, Gregory Beylkin, Florian A. Bischoff, Justus A. Calvin, George I. Fann , **Jacob Fosso-Tande**, Diego Galindo , Jeff R. Hammond , Rebecca Hartman-Baker , Judith	C. Hill , Jun Jia , Jakob S. Kottmann, M-J. Yvonne OU, Laura E. Ratcliff, Mathew G. Reuter, Adam C. Richie-Halford , Nichols A. Romero, Hideo Sekino, William A. Shelton, Bryan E. Sundal, W. Scott Thornton , Edward F. Valeev, Alvaro Vazquez-Mayagoitia, Nicholas Vence, and Yukina Yokoi. "MADNESS: A Multiresolution, ADaptive Numerical Environment for Scientific Simulation" , [SIAM Journal on Scientific Computing, (2015)](http://epubs.siam.org/doi/10.1137/15M1026171)
@@ -110,7 +111,7 @@ subtitle: Jacob Fosso Tande, Ph.D
 
 ### **Invited Talks and Poster Presentation**   
 * **Jacob Fosso Tande** "The Cyberinfrastructure Landscape: Systems, Service Providers, Technologies" Virtual Residency Workshop, June 2022
-* Panel Discussion, Internet2:Democratizing Cloud Computing on Campus, Panelists:Chris Lalande,**Jacob Fosso Tande**, Paul Williams, Amanda Tan (moderator), December 2020
+* Panel Discussion, Internet2: Democratizing Cloud Computing on Campus, Panelists: Chris Lalande, **Jacob Fosso Tande**, Paul Williams, Amanda Tan (moderator), December 2020
 * **Jacob Fosso Tande**,Explaining Complex Technical Topics to Researchers, Virtual Residency Workshop, June 2020
 * Ronald D. Hills Jr., **Jacob Fosso Tande**, Cody Black, Model Assessment and Simulation of Lipid-Protein Interactions, Biophysical Journal, Volume 112, Issue 3, Supplement 1, p528a, 3 February 2017        
  * Cody Black , **Jacob Fosso Tande**, Rachel McDavitt, and Ronald D. Hills Jr., LPS and Substrate Binding by Multidrug Efflux Proteins ,College of Pharmacy, University of New England, Portland, ME, Annual student research symposium., December 2016     
