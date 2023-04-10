@@ -2,6 +2,7 @@
 layout: page
 title: Jacob Fosso Tande
 subtitle: Computational Scientist
+subsubtitle: [GitHub Repositories](https://github.com/jtande)
 use-site-title: true
 ---
 
@@ -14,6 +15,12 @@ use-site-title: true
 	  {% if post.subtitle %}
 	  <h3 class="post-subtitle">
 	    {{ post.subtitle }}
+	  </h3>
+	  {% endif %}
+
+	  {% if post.subsubtitle %}
+	  <h3 class="post-subsubtitle">
+	    {{ post.subsubtitle }}
 	  </h3>
 	  {% endif %}
     </a>
